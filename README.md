@@ -1,6 +1,6 @@
 ### 👋 Hola, mi nombre es Raúl Serrano Arroyo
 
-<h1 align = "middle">Skilss</h1>
+<h1 align = "middle">Skills</h1>
 
 ## 👨‍💻 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
